@@ -1,0 +1,7 @@
+Training_images/
+face_vector_db/
+Attendance.csv
+.DS_Store
+__pycache__/
+*.pyc
+.env
